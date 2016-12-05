@@ -63,6 +63,14 @@ In this assignment, you’ll start with a codebase for binary search trees simil
 * Apply forethought to determine if iterative or recursive methods are more straightforward in various cases.
 * Learn and implement a simple extension to binary search trees based on a textual description of the extension.
 
+### heap-queues
+#### overview
+For this assignment you will be implementing a heap using an array; and implementing a min-priority queue and a max-priority queue.
+#### learning goals
+* Develop your understanding of the priority queue abstraction and its implementation as a heap.
+* Meet the Comparator interface, and demonstrate your ability to use it.
+* Demonstrate your ability to read and understand a specification by implementing it.
+
 
 
 
